@@ -1,0 +1,7 @@
+*.zip
+*.o
+*.out
+build/*
+main
+in.txt
+tokens.txt
